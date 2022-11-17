@@ -27,7 +27,7 @@ def findmal(file):
 
 
 ##### Variables #####
-ApiVirus     = '0d77a812ce2b66f28865e4ace2cc9ffb20c3796922032f62a350daf147c8ad43'
+ApiVirus     = ''
 #ip = findmal(file)
    
 ##### Functions #####
